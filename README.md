@@ -4,7 +4,7 @@ A modern developer-focused portfolio template built with **Vite**, **React**, an
 
 ## Demo
 
-Check out the live demo: 
+Check out the live demo: https://dheena.netlify.app/
 
 ## Features
 
