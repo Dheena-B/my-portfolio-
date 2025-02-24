@@ -4,7 +4,7 @@ A modern developer-focused portfolio template built with **Vite**, **React**, an
 
 ## Demo
 
-Check out the live demo: [immucoderr.netlify.app](https://immucoderr.netlify.app)
+Check out the live demo: 
 
 ## Features
 
@@ -27,7 +27,7 @@ Follow these steps to set up the project locally:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/AMOHAMMEDIMRAN/Portfolio-Giveway.git
+   git clone https://github.com/Dheena-B/my-portfolio-.git
    ```
 
 2. **Navigate to the Project Directory:**
