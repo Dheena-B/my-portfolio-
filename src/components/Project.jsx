@@ -49,13 +49,19 @@ const Project = () => {
           {/* PetPals Project */}
           <div className="w-full md:w-1/2 flex flex-col items-center bg-[#F2EFE5] p-6 rounded-2xl shadow-lg">
             <h1 className="text-[#fe5617] font-extrabold text-[32px] mb-4">
-              Npm-Libray-Logzap
+              Mern-To-app
             </h1>
             <p className="text-lg text-gray-700 mb-4">
-            Logzap is a minimalistic utility that simplifies your JavaScript logging. Instead of cluttering your code with console.log(), just use write() to log any data in a cleaner, more readable way. Perfect for developers who want to streamline their debugging process without compromising on clarity!
+            
+            MERN stack, with hands-on experience in delivering innovative web 
+
+            solutions. Dedicated to enhancing user experiences through responsive
+            design and real-time features, with a focus on creating transformative
+           applications that integrate modern technologies for impactful digital
+            interactions. 
             </p>
             <a
-              href="https://www.npmjs.com/package/logzap"
+              href="https://todo-app-b96a5.web.app/"
               className="text-[#fe5617] font-bold text-lg hover:underline"
             >
               Live Demo
